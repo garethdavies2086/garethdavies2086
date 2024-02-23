@@ -1,5 +1,5 @@
 ### Hi there 👋
-How are you ? 
+**How are you ? **
 
 <!--
 **garethdavies2086/garethdavies2086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
