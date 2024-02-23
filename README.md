@@ -1,6 +1,5 @@
 ### 
-**Hello, welcome!**
-
+**Hello!**
 
 How are you?
 
